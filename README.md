@@ -5,7 +5,3 @@
     <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Visit my website"/>
   </a>
 </p>
-
-## Here's my personal page
-Check out my personal page for projects, resume, and contact info:
-- https://ardet696.github.io/PersonalPage/index.html
