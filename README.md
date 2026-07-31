@@ -1,5 +1,5 @@
 # Hello there! 
-### Take a look at the listed repo's or my Personal Page to now more about me.
+### Take a look at the listed repo's or my Personal Page to know more about me.
 
 ![Ardet696 Nature Scene](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFsYW9xM2t3d3c5eXpwZmhxeWVueTRiNDFvNGs2cXNiaDVncWd2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U25N5SEqHDgqY/giphy.gif) 
 
